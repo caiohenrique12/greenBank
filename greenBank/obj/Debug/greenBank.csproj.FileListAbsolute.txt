@@ -1,0 +1,11 @@
+C:\Users\caiodev\source\repos\greenBank\greenBank\bin\Debug\greenBank.exe.config
+C:\Users\caiodev\source\repos\greenBank\greenBank\bin\Debug\greenBank.exe
+C:\Users\caiodev\source\repos\greenBank\greenBank\bin\Debug\greenBank.pdb
+C:\Users\caiodev\source\repos\greenBank\greenBank\obj\Debug\greenBank.csprojAssemblyReference.cache
+C:\Users\caiodev\source\repos\greenBank\greenBank\obj\Debug\greenBank.Form1.resources
+C:\Users\caiodev\source\repos\greenBank\greenBank\obj\Debug\greenBank.Properties.Resources.resources
+C:\Users\caiodev\source\repos\greenBank\greenBank\obj\Debug\greenBank.csproj.GenerateResource.cache
+C:\Users\caiodev\source\repos\greenBank\greenBank\obj\Debug\greenBank.csproj.CoreCompileInputs.cache
+C:\Users\caiodev\source\repos\greenBank\greenBank\obj\Debug\greenBank.exe
+C:\Users\caiodev\source\repos\greenBank\greenBank\obj\Debug\greenBank.pdb
+C:\Users\caiodev\source\repos\greenBank\greenBank\obj\Debug\greenBank.signUp.resources
